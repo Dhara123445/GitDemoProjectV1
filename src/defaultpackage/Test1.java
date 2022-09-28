@@ -12,6 +12,7 @@ public class Test1 {
 		{
 			System.out.println("do work......");
 		}
+		System.out.println("This is a test change");
 		
 	}
 	}
